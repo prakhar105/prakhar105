@@ -7,7 +7,7 @@
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-sehrawat&label=Profile%20views&color=0e75b6&style=flat" alt="vishal062" />
-<a href="https://github.com/prakhar199?tab=followers"><img src="https://img.shields.io/github/followers/prakhar199?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/prakhar105?tab=followers"><img src="https://img.shields.io/github/followers/prakhar105?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
 <h3><i>Tech <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h3>
@@ -47,7 +47,7 @@ NLTK
 <h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/prakhar-awasthi/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="m-sehrawat" /></a>
-  <a href="hhttps://hashnode.com/@Prakhar199" target="blank"><img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="m-sehrawat" /></a>
+  <a href="hhttps://hashnode.com/@Prakhar105" target="blank"><img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="m-sehrawat" /></a>
   <a title="prakhar.awasthi1999@gmail.com" href="mailto:mohitsehrawat000@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="m-sehrawat" /></a> 
 </p>
 
@@ -55,12 +55,12 @@ NLTK
 <h3><i>GitHub's Stats <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/></i></h3>
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakhar199&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en" alt="prakhar199" height="139"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar199&layout=compact&border_radius=0" alt="prakhar199" height="139" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakhar105&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en" alt="prakhar105" height="139"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar105&layout=compact&border_radius=0" alt="prakhar105" height="139" />
 </p>
 
 
 <!--
-**prakhar199/prakhar199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**prakhar105/prakhar105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
