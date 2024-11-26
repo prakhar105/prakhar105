@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 --->
 
-💫 About Me:
+#💫 About Me:
 🚀 Working on: Computer Vision, LLMs, GenAI and deep learning solutions, focusing on practical applications in Smart Cities, Manufacturing and Retails.
 🤝 Collaborate on: Open-source Computer Vision and LLM projects, AI-driven IoT solutions, and machine learning/deep learning innovations.
 🔎 Looking for help with: Advanced optimization techniques for large-scale computer vision and LLM models.
