@@ -1,14 +1,12 @@
 <!-- ### Hi there 👋 --->
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Prakhar Awasthi <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35"></h1>
-<h3>- <i>I'm a Data Scientist skilled in Machine Learning, Deep learning and Robotics who focuses on writing clean, elegant and efficient code.</i></h3>
-
-<h3>- <i>Currently working as a Ai Scientist and pursing Masters from University of Adelaide, South Australia.</i></h3>
-<br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-sehrawat&label=Profile%20views&color=0e75b6&style=flat" alt="vishal062" />
-<a href="https://github.com/prakhar105?tab=followers"><img src="https://img.shields.io/github/followers/prakhar105?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
+💫 About Me:
+🚀 Working on: Computer Vision, LLMs, GenAI and deep learning solutions, focusing on practical applications in Smart Cities, Manufacturing and Retails.
+🤝 Collaborate on: Open-source Computer Vision and LLM projects, AI-driven IoT solutions, and machine learning/deep learning innovations.
+🔎 Looking for help with: Advanced optimization techniques for large-scale computer vision and LLM models.
+🧠 Currently learning: Cutting-edge algorithms in 2D/3D vision and neural architecture search. Currently, getting my hands dirty on GenAI applications.
+📬 Ask me about: AI in industrial automation, IoT in smart cities, real-time object detection, space science and quantum machanics.
+🎉 Fun fact: I’m fascinated by the intersection of art and AI, especially generative models that create unique visuals.
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakhar-awasthi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/prakharawasthi_)
