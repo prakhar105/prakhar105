@@ -1,12 +1,7 @@
 <!-- ### Hi there 👋 --->
-
 # 💫 About Me:
-🚀 Working on: Computer Vision, LLMs, GenAI and deep learning solutions, focusing on practical applications in Smart Cities, Manufacturing and Retails.
-🤝 Collaborate on: Open-source Computer Vision and LLM projects, AI-driven IoT solutions, and machine learning/deep learning innovations.
-🔎 Looking for help with: Advanced optimization techniques for large-scale computer vision and LLM models.
-🧠 Currently learning: Cutting-edge algorithms in 2D/3D vision and neural architecture search. Currently, getting my hands dirty on GenAI applications.
-📬 Ask me about: AI in industrial automation, IoT in smart cities, real-time object detection, space science and quantum machanics.
-🎉 Fun fact: I’m fascinated by the intersection of art and AI, especially generative models that create unique visuals.
+🚀 **Working on:** Computer Vision, LLMs, GenAI and deep learning solutions, focusing on practical applications in Smart Cities, Manufacturing and Retails.<br>🤝 **Collaborate on:** Open-source Computer Vision and LLM projects, AI-driven IoT solutions, and machine learning/deep learning innovations.<br>🔎 **Looking for help with:** Advanced optimization techniques for large-scale computer vision and LLM models.<br>🧠 **Currently learning:** Cutting-edge algorithms in 2D/3D vision and neural architecture search. Currently, getting my hands dirty on GenAI applications.<br>📬 **Ask me about:** AI in industrial automation, IoT in smart cities, real-time object detection, space science and quantum machanics.<br>🎉 **Fun fact:** I’m fascinated by the intersection of art and AI, especially generative models that create unique visuals.
+
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakhar-awasthi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/prakharawasthi_)
